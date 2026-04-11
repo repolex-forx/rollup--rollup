@@ -1,0 +1,7 @@
+[2026-04-11T18:41:24Z] === AST ITERATION 1 START | repo=rollup/rollup sha=bc353578 ===
+[2026-04-11T18:41:24Z] [iter=1] PHASE START: ast repo=rollup/rollup sha=bc353578
+[2026-04-11T18:41:24Z] [iter=1] Building AST aggregate chunks
+[2026-04-11T18:57:03Z] [iter=1] AST chunks built count=2 triples=9768549
+[2026-04-11T18:57:03Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/bc353578bbde60d644d0d4ed5fb3b121aec19fd7/.complete
+[2026-04-11T18:57:03Z] [iter=1] PHASE END: ast elapsed_s=939 elapsed_min=15.7
+[2026-04-11T18:57:03Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
