@@ -4785,8 +4785,9 @@
     {
       "@id": "https://repolex.ai/r/rollup/rollup/commit/22b64bcc511dfc40ce463e3f662a928915908713",
       "git:hexsha": "22b64bcc511dfc40ce463e3f662a928915908713",
-      "repolex:parseStatus": "pending",
-      "git:tagName": "v4.38.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v4.38.0",
+      "repolex:parsedAt": "2026-04-12T14:06:24.099843+00:00"
     },
     {
       "@id": "https://repolex.ai/r/rollup/rollup/commit/5c001245779063abac3899aa9d25294ab003581b",
